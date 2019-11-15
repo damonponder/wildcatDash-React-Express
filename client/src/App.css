@@ -1,0 +1,9 @@
+ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: 25px;
+  font-size: 25px;
+  color: white;
+}
+
